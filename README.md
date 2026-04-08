@@ -8,6 +8,6 @@ python -m unittest test_calculations
 python -m unittest test_calculations.TestCalculations.test_add
 
 ## TODO:
-* Add a method to multiply 2 numbers
-* Add a method to test multiply.  Create several tests
+* Add a method to multiply 2 numbers.
+* Add a method to test multiply.  Create several tests.
 * Use the commands above to test your changes.
